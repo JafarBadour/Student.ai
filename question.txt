@@ -1,0 +1,6 @@
+What is true about UML?
+
+Select one:
+a. It’s useless, informal notations do just fine
+b. It is used to generate code only
+c. It is used to visualize system's architecture through different diagrams
