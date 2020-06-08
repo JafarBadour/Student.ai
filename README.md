@@ -1,4 +1,4 @@
-# Multiquestion answering
+# MultiChoiceQuestion answering
 
 ## Student.ai
 
